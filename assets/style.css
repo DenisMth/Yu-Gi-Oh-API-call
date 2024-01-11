@@ -1,10 +1,21 @@
+body {
+  background-color: gray;
+  font-family: "Courier New", Courier, monospace;
+}
 body img {
+  margin-left: 16rem;
+  width: 40%;
+}
+body h1 {
+  font-size: 42px;
+  text-align: center;
+}
+body form {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 30px;
+  margin-bottom: 1rem;
 }
-body h1 {
-  font-size: 32px;
-  text-align: center;
+body form input {
+  margin-right: 0.3rem;
 }/*# sourceMappingURL=style.css.map */

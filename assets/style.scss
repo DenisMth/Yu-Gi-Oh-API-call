@@ -1,12 +1,21 @@
 body{
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
     img{
-        display:flex;
-        justify-content: center;
-        align-items: center;
-        width:30px;
+        margin-left :16rem;
+        width: 40%;
     }
     h1{
-        font-size: 32px;
+        font-size: 42px;
         text-align: center;
+    }
+    form{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 1rem ;
+        input{
+            margin-right:0.3rem;
+        }
     }
 }
