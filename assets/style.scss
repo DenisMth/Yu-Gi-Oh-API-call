@@ -2,8 +2,7 @@ body{
     background-color: gray;
     font-family: 'Courier New', Courier, monospace;
     img{
-        margin-left :16rem;
-        width: 40%;
+        width: 20rem;
     }
     h1{
         font-size: 42px;
@@ -18,4 +17,12 @@ body{
             margin-right:0.3rem;
         }
     }
+}
+main{
+    margin:auto;
+    width: 80%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap:1rem;
 }
