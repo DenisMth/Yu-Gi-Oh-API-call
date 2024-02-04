@@ -10,7 +10,7 @@ Write the exact name of a Yu-Gi-Oh! card and it displays all the existing versio
 
 ## Operating mode
 
-- Using a Yu-Gi-Oh! API to collect card informations.
+- Using a Yu-Gi-Oh! API to collect card informations. (API can be found at https://ygoprodeck.com/api-guide/)
 - Displaying all images of the card versions existing in the API.
 
 ## Known bugs
