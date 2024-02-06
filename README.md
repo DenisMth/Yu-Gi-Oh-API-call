@@ -5,6 +5,7 @@ https://denismth.github.io/async/
 ## Description
 
 I started the project by creating an HTML form with basic CSS and then I looked through the Yu-Gi-Oh! API to get all the image sources to display them on my page.
+
 I had some difficulties to loop through the images array in the API, but I managed to get them all and the website displays all the versions of the same card when requested.
 
 ## Instructions 
