@@ -1,4 +1,4 @@
-# Async
+# Yu-Gi-Oh! Card Displayer
 
 https://denismth.github.io/async/
 
