@@ -6,7 +6,8 @@ https://denismth.github.io/async/
 
 Write the exact name of a Yu-Gi-Oh! card and it displays all the existing versions of this card or you can simply submit and it will display a random card of the Database.
 
-![image](https://github.com/DenisMth/async/assets/151639749/bc748bbc-72d0-4e84-ab0a-47ece50aa34c)
+![image](https://github.com/DenisMth/async/assets/151639749/d352b05e-0a2e-477c-ba3a-ea1200f24bf2)
+
 
 ## Operating mode
 
