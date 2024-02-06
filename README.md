@@ -1,4 +1,6 @@
 # Yu-Gi-Oh! Card Displayer
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 https://denismth.github.io/async/
 
