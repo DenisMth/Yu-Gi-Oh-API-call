@@ -1,6 +1,6 @@
 # Yu-Gi-Oh! Card Displayer
 
-https://denismth.github.io/async/
+https://denismth.github.io/Yu-Gi-Oh-API-call/
 
 ## Description
 
